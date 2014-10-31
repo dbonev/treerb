@@ -9,7 +9,7 @@ For instance, if I want to see ALL sub directories of the ~/Dropbox folder, larg
 
 This displays the following output (so I can quickly identify the directories that take lots of space):
 
--(3799MB)
+- (3799MB)
 -|-Apps (120MB)
 -|-|-Day One (119MB)
 -|-|-|-Journal.dayone (119MB)
