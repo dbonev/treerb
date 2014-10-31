@@ -10,7 +10,9 @@ For instance, if I want to see ALL sub directories of the ~/Dropbox folder, larg
 This displays the following output:
 
 -Dropbox (3799MB)
+
 -|-Apps (120MB)
+
 -|-|-Day One (119MB)
 
 
