@@ -7,18 +7,9 @@ For instance, if I want to see ALL sub directories of the ~/Dropbox folder, larg
 
 ./tree.rb ~/Dropbox -s -h -t50 
 
-This displays the following output:
+This displays the following output (so I can quickly identify the directories that take lots of space):
 
--Dropbox (3799MB)
-
--|-Apps (120MB)
-
--|-|-Day One (119MB)
-
-
-
-
--Dropbox (3799MB)
+- (3799MB)
 -|-Apps (120MB)
 -|-|-Day One (119MB)
 -|-|-|-Journal.dayone (119MB)
@@ -57,5 +48,3 @@ This displays the following output:
 -|-|-|-|-|-|-bin (63MB)
 -|-|-|-|-|-|-|-x86 (63MB)
 -|-|-|-|-|-|-|-|-Debug (55MB)
- 
-
