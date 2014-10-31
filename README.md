@@ -48,3 +48,4 @@ This displays the following output (so I can quickly identify the directories th
 -|-|-|-|-|-|-bin (63MB)
 -|-|-|-|-|-|-|-x86 (63MB)
 -|-|-|-|-|-|-|-|-Debug (55MB)
+
