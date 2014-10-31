@@ -11,15 +11,10 @@ This displays the following output (so I can quickly identify the directories th
 
 
 - (3799MB)
-
 -|-Apps (120MB)
-
 -|-|-Day One (119MB)
-
 -|-|-|-Journal.dayone (119MB)
-
 -|-|-|-|-photos (118MB)
-
 -|-Backups (487MB)
 
 -|-Books (311MB)
