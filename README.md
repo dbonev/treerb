@@ -7,4 +7,11 @@ For instance, if I want to see ALL sub directories of the ~/Dropbox folder, larg
 
 ./tree.rb ~/Dropbox -s -h -t50 
 
+The -s option instructs the script to get and display the size of each folder (taken with the du command).
+
+The -h option tells the script to include hidden folders (they are skipped by default).
+
+The -t50 means 'threshold bigger than 50 MB' so only directories larger than 50 MB will be included in the output.
+
+
 This displays the output as shown on the screenshot (so I can quickly identify the directories that take lots of space).
